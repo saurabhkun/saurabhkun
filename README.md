@@ -43,18 +43,3 @@ I am a **Creative Technologist** bridging the gap between systems engineering an
 
 ---
 
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabhkun&theme=git_dark&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkun&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Saurabh's Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkun&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
-</div>
