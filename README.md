@@ -18,7 +18,7 @@
 
 I am a **Creative Technologist** bridging the gap between systems engineering and visual design. I build secure, high-performance applications with a focus on premium UI/UX.
 
-- 🔭 **Currently working on:** [SortedWebs](https://github.com/saurabhkun/sortedwebs-mvp) - An AI-powered digital asset manager.
+- 🔭 **Currently working on:** [SortedWebs](https://github.com/saurabhkun/project_sortedwebs) - An AI-powered digital asset manager.
 - 🛡️ **Diving deep into:** Cybersecurity (Bug Bounty & Network Defense) & Advanced Java DSA.
 - 🎯 **2026 Goal:** Google Summer Internship (Pune).
 - ⚡ **Secret Weapon:** I combine **Blender/AE** visuals with **React** code for immersive experiences.
