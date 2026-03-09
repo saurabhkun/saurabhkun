@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Building+SortedWebs+%F0%9F%9A%80;Google+Summer+2026+Aspirant" alt="Typing SVG" />
+ 
   
-  <h3>🚀 Founder of SortedWebs | 🎓 Engineering Student @ WIT Solapur</h3>
+  <h3>🚀 Building FlashGuard | 🎓 Engineering Student @ WIT Solapur</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/saurabh-gandhi-1421b2318/">
