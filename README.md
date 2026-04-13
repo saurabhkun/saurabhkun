@@ -27,7 +27,7 @@
 const saurabh: Developer = {
   location   : "Solapur, Maharashtra, India 🇮🇳",
   college    : "WIT Solapur — Electronics & Computer Engineering",
-  team       : "Team Aevora 🏆  —  Rank #1 in Domain",
+  team       : "TEAM ACCIO",
   roles      : ["Backend Developer", "PCB Designer", "Video Editor"],
   currentWork: "FlashGuard Pro — Real-time UPI Fraud Detection 🛡️",
   learning   : ["Full-Stack Dev", "ML Deployment", "DevOps & Cloud"],
