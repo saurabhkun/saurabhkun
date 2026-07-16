@@ -6,7 +6,7 @@
 
 <br>
 
-**@saurabhkun** &nbsp;·&nbsp; Solapur, Maharashtra, India &nbsp;·&nbsp; WIT Solapur — ECE
+
 
 <img src="https://img.shields.io/badge/Team-ACCIO-1a1b27?style=for-the-badge&color=FF6B6B" />
 <img src="https://img.shields.io/badge/Goal-Google%20Summer%20Internship%20%E2%80%A2%20Pune%202026-1a1b27?style=for-the-badge&color=FFA94D" />
