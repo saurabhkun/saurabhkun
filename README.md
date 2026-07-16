@@ -1,19 +1,23 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=E50914&height=200&section=header&text=SAURABH%20GANDHI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20Dev%20%C2%B7%20PCB%20Designer%20%C2%B7%20Video%20Editor&descSize=16&descAlignY=75&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=AA00AA&height=190&section=header&text=SAURABH%20GANDHI&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20Dev%20%C2%B7%20Video%20Editor&descSize=15&descAlignY=75&descColor=cccccc" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=E50914&center=true&vCenter=true&width=700&lines=%3E+Backend+Developer.;%3E+PCB+Designer.;%3E+Video+Editor.;%3E+Team+Aevora+%E2%80%94+Rank+%231+in+Domain.;%3E+Building+things+that+actually+work.)](https://git.io/typing-svg)
+<code>handle: <b>@saurabhkun</b> &nbsp;|&nbsp; rating: <b>2050</b> &nbsp;|&nbsp; rank: <b style="color:#AA00AA">Candidate Master (Dev Track)</b></code>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=AA00AA&center=true&vCenter=true&width=700&lines=%3E+Backend+Developer.;%3E+Video+Editor.;%3E+Building+things+that+actually+work.)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-gandhi-1421b2318)
-[![Gmail](https://img.shields.io/badge/_%20Gmail-E50914?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhgandhi016@gmail.com)
+[![Gmail](https://img.shields.io/badge/_%20Gmail-AA00AA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhgandhi016@gmail.com)
 [![Instagram](https://img.shields.io/badge/_%20Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mustbe.saurabhhh)
 [![GitHub](https://img.shields.io/badge/_%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhkun)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saurabhkun&style=for-the-badge&color=E50914&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=saurabhkun&style=for-the-badge&color=AA00AA&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,7 +32,7 @@ const saurabh: Developer = {
   location   : "Solapur, Maharashtra, India 🇮🇳",
   college    : "WIT Solapur — Electronics & Computer Engineering",
   team       : "TEAM ACCIO",
-  roles      : ["Backend Developer", "PCB Designer", "Video Editor"],
+  roles      : ["Backend Developer", "Video Editor"],
   currentWork: "FlashGuard Pro — Real-time UPI Fraud Detection 🛡️",
   learning   : ["Full-Stack Dev", "ML Deployment", "DevOps & Cloud"],
   goal2026   : "Google Summer Internship · Pune",
@@ -41,163 +45,103 @@ const saurabh: Developer = {
 
 ---
 
-## `> ls ./projects`
+## `> rating.graph`
 
-<br/>
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/rating-graph.svg" width="100%"/>
 
-<img src="https://img.shields.io/badge/🥇_RANK_%231_IN_DOMAIN-FFD700?style=for-the-badge&logoColor=black"/>
+</div>
 
-### 🛡️ FlashGuard Pro
-> *Hackathon · FinTech · AI/ML · 2026*
-
-End-to-end UPI fraud detection. ML models score transactions in real-time. FastAPI backend, React live dashboard, JWT auth — all built under 24hrs with Team Aevora.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/▶_View_Repo-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhkun/Project_FlashGuard)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/⚙_SOFTWARE_·_WEB_APP-333333?style=for-the-badge"/>
-
-### 🌐 SortedWebs
-> *Full-Stack · AI-Powered · 2026*
-
-AI-powered personal web library. Save bookmarks, discover curated stacks, share your digital world. Full-stack with Supabase + Netlify CI/CD.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/▶_View_Repo-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhkun/project_sortedwebs)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/🏛_SIH_2025_·_CIVIC_TECH-1a1a2e?style=for-the-badge"/>
-
-### 🏙️ CivicResolve
-> *Smart India Hackathon · 2025*
-
-Unified civic complaint platform — Gemini AI auto-routes issues to the right department. Gamified with token rewards for active citizens.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/▶_View_Repo-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhkun/CivicResolve)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/🔌_PCB_DESIGN_·_HARDWARE-0a0a0a?style=for-the-badge"/>
-
-### 🔧 Voltage Regulator PCB
-> *Electronics · KiCad · 2024*
-
-Custom PCB from schematic to Gerber files. Full layout, DRC checks, fabrication-ready. Where hardware meets clean architecture.
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/▶_View_Repo-E50914?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabhkun)
-
-</td>
-</tr>
-</table>
+> *Upload `rating-graph.svg` to an `assets/` folder in your profile repo — the path above assumes that location. Swap to the raw GitHub URL if you place it elsewhere.*
 
 <br/>
 
 ---
 
-## `> cat skills.txt`
+## `> submission.stats`
 
-<br/>
+<div align="center">
 
-**⚙️ &nbsp;BACKEND**
+| metric | count |
+|---|---|
+| ![Repos Shipped](https://img.shields.io/badge/Repos_Shipped-14-03A89E?style=flat-square&labelColor=0d1117) | across backend, full-stack & hardware |
+| ![PRs Merged](https://img.shields.io/badge/PRs_Merged-—-2F6FED?style=flat-square&labelColor=0d1117) | fill in your count |
+| ![Stars Earned](https://img.shields.io/badge/Stars_Earned-—-FF8C00?style=flat-square&labelColor=0d1117) | fill in your count |
+| ![Longest Streak](https://img.shields.io/badge/Longest_Streak-—_days-AA00AA?style=flat-square&labelColor=0d1117) | pulls live below via streak-stats |
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+</div>
 
-**💻 &nbsp;FRONTEND** *(learning)*
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**🤖 &nbsp;AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**🔌 &nbsp;ELECTRONICS & PCB**
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**🎬 &nbsp;CREATIVE**
-
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
-
-**🛠️ &nbsp;TOOLS**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> *Replace the `—` placeholders with real numbers, or tell me the values and I'll hardcode them.*
 
 <br/>
 
 ---
 
-## `> git log --learning`
+## `> problem.tags`
 
-```
-◉  Now · 2026   Full-Stack Development
-│                React · TypeScript · Vite · Tailwind CSS
-│
-◉  2025         Machine Learning & AI Integration
-│                Scikit-learn · FastAPI · Pandas · Model Deployment
-│
-◉  2024–2025    Backend Engineering
-│                Node.js · PostgreSQL · SQLite · JWT · REST APIs
-│
-◉  2024         PCB Design & Electronics
-│                KiCad · Circuit Schematics · Gerber Files
-│
-◎  Next Up      DevOps & Cloud Basics
-                 Docker · CI/CD · Cloudflare Workers · Linux
-```
+<br/>
+
+**`#backend`**
+
+![Python](https://img.shields.io/badge/python-03A89E?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-03A89E?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodejs-03A89E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-03A89E?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-03A89E?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-03A89E?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-03A89E?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**`#frontend`** *(learning)*
+
+![React](https://img.shields.io/badge/react-2F6FED?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-2F6FED?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-2F6FED?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-2F6FED?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-2F6FED?style=flat-square&logo=supabase&logoColor=white)
+
+**`#ai_ml`**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-AA00AA?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-AA00AA?style=flat-square&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini_api-AA00AA?style=flat-square&logo=google&logoColor=white)
+
+**`#electronics`**
+
+![KiCad](https://img.shields.io/badge/kicad-808080?style=flat-square&logo=kicad&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-808080?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-808080?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**`#creative`**
+
+![After Effects](https://img.shields.io/badge/after_effects-FF8C00?style=flat-square&logo=adobe%20after%20effects&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-FF8C00?style=flat-square&logo=blender&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/premiere_pro-FF8C00?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white)
+
+**`#tools`**
+
+![Git](https://img.shields.io/badge/git-6e7681?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-6e7681?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-6e7681?style=flat-square&logo=linux&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-6e7681?style=flat-square&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/vs_code-6e7681?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+---
+
+## `> contest.history`
+
+<div align="center">
+
+| date | contest | type | stack | verdict |
+|---|---|---|---|---|
+| 2026 | **FlashGuard Pro** — UPI Fraud Detection | Hackathon · FinTech/AI | FastAPI · Scikit-learn · React | ![AC](https://img.shields.io/badge/AC-Shipped-2ecc71?style=flat-square) |
+| 2026 | **SortedWebs** — AI Web Library | Full-Stack | React · TypeScript · Supabase | ![AC](https://img.shields.io/badge/AC-Shipped-2ecc71?style=flat-square) |
+| 2025 | **CivicResolve** — Civic Complaint Platform | Smart India Hackathon | Flutter · Gemini AI · PostgreSQL | ![AC](https://img.shields.io/badge/AC-Shipped-2ecc71?style=flat-square) |
+| 2024 | **Voltage Regulator PCB** | Electronics · KiCad | KiCad · C++ · Arduino | ![AC](https://img.shields.io/badge/AC-Shipped-2ecc71?style=flat-square) |
+
+</div>
 
 <br/>
 
@@ -207,13 +151,13 @@ Custom PCB from schematic to Gerber files. Full layout, DRC checks, fabrication-
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saurabhkun&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=E50914&icon_color=E50914&text_color=e5e5e5&border_color=E50914&border_radius=8&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saurabhkun&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=AA00AA&icon_color=AA00AA&text_color=e5e5e5&border_color=AA00AA&border_radius=8&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkun&layout=compact&theme=dark&bg_color=0d0d0d&title_color=E50914&text_color=e5e5e5&border_color=E50914&border_radius=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkun&layout=compact&theme=dark&bg_color=0d0d0d&title_color=AA00AA&text_color=e5e5e5&border_color=AA00AA&border_radius=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkun&theme=dark&background=0d0d0d&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=e5e5e5&dates=888888&border=E50914&border_radius=8" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkun&theme=dark&background=0d0d0d&ring=AA00AA&fire=AA00AA&currStreakLabel=AA00AA&sideLabels=e5e5e5&dates=888888&border=AA00AA&border_radius=8" height="180"/>
 
 </div>
 
@@ -233,8 +177,4 @@ Custom PCB from schematic to Gerber files. Full layout, DRC checks, fabrication-
 
 ---
 
-<div align="center">
-
-
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=AA00AA&height=100&section=footer" width="100%"/>
