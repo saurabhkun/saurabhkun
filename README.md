@@ -11,7 +11,7 @@
 
 
 <img src="https://img.shields.io/badge/Team-ACCIO-1a1b27?style=for-the-badge&color=FF6B6B" />
-<img src="https://img.shields.io/badge/Goal-Google%20Summer%20Internship%20%E2%80%A2%20Pune%202026-1a1b27?style=for-the-badge&color=FFA94D" />
+<img src="https://img.shields.io/badge/Goal-Google%20Summer%20Internship%20%E2%80%A2%20Pune%2020-1a1b27?style=for-the-badge&color=FFA94D" />
 
 <br><br>
 
@@ -26,7 +26,7 @@
 
 ## 🚀 About
 
-Currently building **FlashGuard Pro** — real-time UPI fraud detection. Backend developer and video editor on **Team ACCIO**. Sharpening full-stack development, ML deployment, and DevOps/cloud skills on the way to a Google Summer Internship in Pune, 2026.
+Currently building **FlashGuard Pro** — real-time UPI fraud detection. Backend developer and video editor on **Team ACCIO**. Sharpening full-stack development, ML deployment, and DevOps/cloud skills on the way to a Google Summer 27
 
 <br>
 
@@ -65,7 +65,7 @@ Currently building **FlashGuard Pro** — real-time UPI fraud detection. Backend
 <td width="50%">
 
 ### 🛡️ FlashGuard Pro
-Hackathon · FinTech/AI · 2026
+Hackathon · FinTech/AI · 20
 <br>
 `FastAPI` `Scikit-learn` `React` `SQLite` `Node.js`
 <br>
@@ -75,7 +75,7 @@ Hackathon · FinTech/AI · 2026
 <td width="50%">
 
 ### 🗂️ SortedWebs
-Full-Stack · AI-Powered · 2026
+Full-Stack · AI-Powered · 20
 <br>
 `React` `TypeScript` `Supabase` `Tailwind` `Netlify`
 <br>
@@ -114,7 +114,7 @@ Electronics · KiCad · 2024
 ```
 2024–2025   Backend Engineering        Node.js, PostgreSQL, SQLite, JWT, REST APIs
 2025        ML & AI Integration        Scikit-learn, FastAPI, Pandas, Model Deployment
-Now · 2026  Full-Stack Development     React, TypeScript, Vite, Tailwind
+Now · 20  Full-Stack Development     React, TypeScript, Vite, Tailwind
 Next        DevOps & Cloud Basics      Docker, CI/CD, Cloudflare Workers, Linux
 ```
 
