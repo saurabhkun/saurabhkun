@@ -60,19 +60,15 @@ $@@@@@@@@@@@@$@@@@@@@@@@@@#&&%#@@@@@@@@@@@@@@@@@@@@@@$@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
+<img src="https://img.shields.io/badge/Team-ACCIO-FF6B6B?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Goal-Building%20Scalable%20AI%20Systems-FFA94D?style=for-the-badge&labelColor=1a1b27" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Team-ACCIO-1a1b27?style=for-the-badge&color=FF6B6B" />
-<img src="https://img.shields.io/badge/Goal-Building%20Scalable%20AI%20Systems-1a1b27?style=for-the-badge&color=FFA94D" />
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=white&color=FF6B6B)](https://linkedin.com/in/saurabh-gandhi-1421b2318)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&color=FFA94D)](mailto:saurabhgandhi016@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=white&color=F783AC)](https://instagram.com/mustbe.saurabhhh)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white&color=845EF7)](https://github.com/saurabhkun)
+<a href="https://linkedin.com/in/saurabh-gandhi-1421b2318"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF6B6B?style=for-the-badge&labelColor=1a1b27&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="mailto:saurabhgandhi016@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-FFA94D?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://instagram.com/mustbe.saurabhhh"><img src="https://img.shields.io/badge/Instagram-Follow-F783AC?style=for-the-badge&labelColor=1a1b27&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/saurabhkun"><img src="https://img.shields.io/badge/GitHub-saurabhkun-845EF7?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
