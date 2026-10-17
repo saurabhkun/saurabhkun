@@ -1,5 +1,74 @@
 <div align="center">
 
+```text
+                                                                                                            
+               xuuuuuuuuuuuuuuuuuuuuuuuvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvccccccccccccccccccccccccccccvvcn               
+               qkkkkkkkkkkkkkkkkkkkkkhhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaaooooooooooaaaaaab               
+               qkkkkkkkkkhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaoooaaaaooooooooooooooooooooooooooooob               
+               qhhhhhhhhhhhhhaaahhahhhaahhhaaaaaaaaaaaaaaoaaaaaoaaooooooooooooooooooooooooooooooooaaoooob               
+               phhhhhhaahhhhaaaaaaaaaaaaaaaaaoaaaaoooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+               daaaaaaaaaoaaoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooooooooooooooaoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooooodqpdkbZJUJYr()/uJmkooooooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .boooooooooooaw/~<~](([[[?~<-])/frrjxLkooooooooooooooooooooooooooooooooooooooooooooooooooob               
+              .doooooooahpc}-!;,II!_-(}?{)tjt|11}}[?]uqooooooooooooooooooooooooooooooooooooooooooooooooob               
+               0wwwwwZCf/{lIi;"^::i__~lI!~}(|ftt||\(1]{vdhahhhkkkkkkkooooooooooooooooooooooooooooooooooob               
+               QmmmOYt|_l<!I;,","",;;",::I!~}(|1]-?--?+}\vdhhkkkkkkkkooooooooaaooaaooooooooooooooooooooob               
+               UCUu/)-,:il;"^^^"''.''`^^,;ilI;:;l<++>i>>>?fZmmwwmwwwpaoooooohbbkkkkhhkkhoooooooooooooooob               
+               Yv[~"'. `"`'.. ^<^,'.''`.'"!?[]_~~>~_-?+>+<~rCLLLLLLLZhoooookpqpqqqpdkaoooooooooooooooooob               
+               x)+...'...     ''.. ..''^I-][?~~+_<l:,,;l>~])cCLLLLCLmhoookpmQLL0Zmqpppppdkaoooooooooooood               
+               (i".'....   ""^`.  .'``":;;;:;l!>~-}}]?}1[!+}xJCLLLLLpooooooooooooooooooooooooooooooooooob               
+               !I:^'...    ''..  .'`^",,,::,""":li><<++]!:l_(zJCQQQQpoaooooooooooooooooooooooooooooooooob               
+               I"^l:.          '`:lliiill!II;:,:li<<il;::I!<_tcLQQQ0doaooooooooooooooooooooooooooooooooob               
+               :"^'.          `l<_]}{}]_>I;::l>-]](j(-<"`^:;!?rcJQQ0doaooooooooooooooooooooooooooooooooob               
+               "''``'..      ^+]}|tjxxj\1(rzJUznt|(\cwbQ^":l~}t/|fYQpoaooooooooooooooooooooooooooooooooob               
+               -^.       '`'.`";!_|t/fuZZj-iII!i!II!>xqbzii~__)tct|upooooooooooooooooooooooooooooooooooob               
+               Y\^      <jLpmCcnnUpdpdbd<;:,:"^:lI!<~(ZpwC-]\vzuu/fvpooooooooooooooooooooooooooooooooooob               
+               ::"';\OJ)l:::,,,,""_LXJmZL?>lIIIli~_?{UmQ(?/vrLdLrJOOdooooooooooooooooooooooooooooooooooob               
+               `:I<cqz;`^""^^^^^^"-XnLqbpZc/1{{|fxX0mZmZu?1jYmdpwZOObooooooooooooooooooooooooooooooooooob               
+               ,;;"(mmi.'^^```^^^>cuv0qbkdqwwpddbkkbqwmOu[jzLwpqmZOObooooooooooooooooooooooooooooooooooob               
+               ,"'.!vwm!.^^"":_uQc|(jzCQQQmpw0mpbdpqwZ0QuxZpddqqmO00dooooooooooooooooooooooooooooooooooob               
+               ^^.`"I]txncuuzzYUXn)]<<}(+;>(LqmZqqqwmZ0JnumdbdqwZ0QQdooooooooooooooooooooooooooooooooooob               
+               `i^",l;l^.+?1txuvcf_I::l+-\vL0LCLQOOO0QJXjvZmwqqqZQQQpoaooooooooooooooooooooooooooooooooob               
+               ^(^":iI;l`;_+?})/t[!,:!{rrrxr/({{\XCLCYccrXpdppqqZQLLpaaooooooooooooooooooooooooooooooooob               
+               I?::I>I:l~,l~<<+_>,:I;lii<)cQ0CufrcJCUzvnxUpppqqwOLCCqaaooooooooooooooooooooooooooooooooob               
+               u:,:;l;,,<<;:l!!:",^:?jXQJzvvcXJJCYXYXcxtfOddpwmO0CJCqahoohoooooooooooooooooooooooooooooob               
+               :",:l;:"^,::^":l!ll!!ii!>!l<[/nvcuuczut{[nmppqwZ0LJJJqhhaaooooooooooooooooooooooooooooooaq               
+                .'";:,`^::,^`^I!!!iii!!!>[rXUYzvxjjf(_>{QwqqwmOQCJUUwkkhhhaaaooooooooooooooooooooooooooaO               
+               1-/c|I^`. .^<jjlIlI::IIl>](tnnxjjf/{?<l~xZwqwmZ0QCUYUwkbhhhhhaaaaoooooooooooooooooooooooa0               
+               cYUUXUzzcUZZZ0ZQ?^`^^^"llii!l<_+++>!I>/QmwwwwmZ0LJYYYmkbhhkhhhaaaaaaaaooooooaaaoooooooaaaQ               
+               zUJJJCJUJQOZOOZwqX!    '``^^^",:II:I]uQwqwwqqqqqqpwOLwbbkkkhhhhhahhahaaaaaaaaaaooooooaaahq               
+               zJJJJCCLL0O000ZwqqYi.      ...'`^,<\zQmwwwqqw0XnQpbhaakdbbbkkkkhhhaaaaaahhahhhaaaaaaaaaahp               
+               XJCCCCLQQ0ZO0QXr1~I,,^'.    .`,Ii{rUQOmmmwqqqqz1f0pkaoohbbbbkbkkkkhhhhhhhhhhhhhhhhhhhhhkhq               
+               YCCCCLLQ0O0Yj\}<:^..",,,"^^":I>?|nYL0OZZZwqpppdC?Jphaoooabbbbbkkkkkkkkkhhhhhhhhkkhhhkkkkbw               
+               YLLLLLLQLYxf/1+;^. .^",,:;Ili<?(rcUL0OZOZwdddddO(JhaabwOmdkkkkkkkkkkkhhhhhhhhkkkkkkkkbbbbw               
+               ULLLQQ0QCUXuf(_,'  '^"",:li+?{|fnzULOmmZmqddddpZLmv)_I:::<fZdpdkhhhhhhhhhhhhkkkkbkkbbbbbbw               
+               UQQQQ0OZZOQJXx)<;..`^":::I<{fnucXYJQmqpddddddpQcv]i]-I,,I~/Xbhqqhaaoooooooaookdbbbbbbbdddm               
+               UO0JJ0wpddqwZQUr1(>^":Illli1z0ZmmmOZpddpdddddmzxu)rx|][[10LQmkkdkhhhhaaaahaaddhaohbddddddm               
+               0ZZZwqpdddppqwZ0Xzx{~~?(frrvCZwqqwwqpqppdddpOvjXmpLvrfftfYkaahbbkaahkkhhhaabkaooooakdddddm               
+               LmZx{1uZpdpppqqUfxrrxucYJCLQ0ZmmZwqppppddqCj)\JbhbbqwZOZOLmbhhbdbaakddkkhahhaoooooooabdpdm               
+               Zp0(I"^Iitmppqv|j\|/ttrXQQOOOZ0OZmqqppppz}_{tOhhbkkhkkhaooaaaahbdbkbbbbkhahaaoooooooooadpm               
+               ZZX}>><~><+~)j\((j(](tjrz0ZZO000OwqqqwUt((v0hhhhkhhahkhaooooaaahkbbdpdbbhhhaaaoaaooooooobZ               
+               CJr{_-?[{(fYQt-?[)|)1(\tjz00ZZOOOwmwQr{{Cqkahhhhhaaohbdkaooohhhkbdpqqqdbkkkhhhhaaaoooooooq               
+               UJLv)}{rZdp0ZdZc1~<+?|jtfjnCOOZmZZ0u}[fmkhhhhhhhaoooakqqbaoooohbppqwwwpdbbdkhhhhhaooooooob               
+               LQqdQxrUpbbwLZdbbZv)+ll>{cnnYZmmZ0nrrcwkkhhhhhhhaaooaabZ0pkaoooahkbpwmqbbddbbbhaahkhaoooob               
+               Z0qkkdZ0dkkdOU0pdddpwQc\{?-{vC00CuffzmbhhhhhhhhhaaaaaaadOQmdhaooaaahdwqdbdqqbbpdkhaaahaoob               
+               0QpkkbmmbkkkdOUQwqpppwOCuf//(tJXrfrzOdkhhhhhhkhhhhhhaaahd0LOqbkkkkkkbppdbqqqpbhhhhkhaoooob               
+               Q0bkkbwwbkhhkpZC0wqddpqwmO00OJvJxnzZbbkkbbkkkkhhhhhhahhhbq0QZpbkkkkkbpdddwqbkkkkkhaaaaaoob               
+               i~___+~~+_____+<><~++++++++~<+~>il<____+++_______________+<>>~+_____+++++~+______________+               
+                                                                                                                        
+                                                                                                                 
+```
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,8,20&text=Saurabh%20Gandhi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=I%20build%20from%20circuits%20to%20cloud.&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
