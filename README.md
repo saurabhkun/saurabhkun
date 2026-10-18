@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,8,20&text=Saurabh%20Gandhi&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=I%20build%20from%20circuits%20to%20cloud.&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
+<div align="center">
 
 ```text
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -58,6 +59,7 @@ $@@&??$@@@$@@@@#=-;-+?%%&@@@@@&?*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 $@@@@@@@@@@@@$@@@@@@@@@@@@#&&%#@@@@@@@@@@@@@@@@@@@@@@$@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
+</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Team-ACCIO-FF6B6B?style=for-the-badge&labelColor=1a1b27" />
