@@ -80,21 +80,37 @@ $@@@@@@@@@@@@$@@@@@@@@@@@@#&&%#@@@@@@@@@@@@@@@@@@@@@@$@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Currently building **FlashGuard Pro** — real-time UPI fraud detection. Backend developer and video editor on **Team ACCIO**. Sharpening full-stack development, ML deployment, and DevOps/cloud skills.
 
+B.Tech student in Electronics and Computer Engineering at **Walchand Institute of Technology, Solapur** (2024–2028). Based in Pune.
+
 <br>
 
 ## 🛠️ Tech Stack
 
-**Backend**
+**Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,postgres,sqlite" />
-
-**Frontend** *(learning)*
-<br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,supabase" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,java" />
 
 **AI / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=sklearn,pandas,gcp" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas" />
+<br>
+*LangGraph · RAG · Random Forest · XGBoost · Logistic Regression · OpenAI Whisper*
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,supabase,postgres,sqlite" />
+
+**Frontend & Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker" />
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vite,netlify" />
 
 **Electronics**
 <br>
@@ -103,10 +119,6 @@ Currently building **FlashGuard Pro** — real-time UPI fraud detection. Backend
 **Creative**
 <br>
 <img src="https://skillicons.dev/icons?i=ae,blender,premiere" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify" />
 
 <br>
 
@@ -117,7 +129,7 @@ Currently building **FlashGuard Pro** — real-time UPI fraud detection. Backend
 <td width="50%">
 
 ### 🛡️ FlashGuard Pro
-Hackathon · FinTech/AI · 2026
+Top 50 · Chakravyuh 2.0 · FinTech/AI · 2026
 <br>
 `FastAPI` `Scikit-learn` `React` `SQLite` `Node.js`
 <br>
@@ -131,7 +143,7 @@ Full-Stack · AI-Powered · 2026
 <br>
 `React` `TypeScript` `Supabase` `Tailwind` `Netlify`
 <br>
-[→ project_sortedwebs](https://github.com/saurabhkun/project_sortedwebs)
+[→ SortedWebs](https://github.com/saurabhkun/SortedWebs)
 
 </td>
 </tr>
@@ -139,25 +151,41 @@ Full-Stack · AI-Powered · 2026
 <td width="50%">
 
 ### 🏛️ CivicResolve
-Smart India Hackathon · 2025
+Winner · Buildathon 1.0 · WIT Solapur
 <br>
-`Flutter` `Gemini AI` `PostgreSQL` `Cloudflare`
+`React` `TypeScript` `Flutter` `Supabase` `PostgreSQL` `PostGIS` `MapLibre GL`
 <br>
-[→ CivicResolve](https://github.com/saurabhkun/CivicResolve)
+[→ Civic-Resolve](https://github.com/saurabhkun/Civic-Resolve)
 
 </td>
 <td width="50%">
 
-### ⚡ Voltage Regulator PCB
-Electronics · KiCad · 2024
+### 🏭 Steel-IQ (ForgeSight AI)
+Winner · Buildathon 2.0 · WIT Solapur
 <br>
-`KiCad` `C++` `Arduino`
+`PyTorch` `FastAPI` `React` `TypeScript` `SQLAlchemy`
 <br>
-—
+[→ Buildathon-2.0](https://github.com/Karanpatil1201/Buildathon-2.0)
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🧑‍💻 Experience
+
+- **Tech Team Member · Tech Circle** — Tech Eximius 2026 Hackathon · Jun 2026 – Sep 2026 · Hybrid
+- **Contributor · Elite Coders** — Elite Code of Summer 2026 · Jun 2026 – Jul 2026 · Remote
+
+<br>
+
+## 🥇 Achievements
+
+- **Winner** · Buildathon 2.0, LOL Coding Club, WIT Solapur — built Steel-IQ, an AI steel defect detection system
+- **Winner** · Buildathon 1.0, LOL Coding Club, WIT Solapur — built CivicResolve, a mobile app and web dashboard
+- **Top 10** · MATRIX FUSION — Top 10 (among Top 25) of 500+ teams, the only team from Maharashtra; built AgriMit
+- **Top 50** · Chakravyuh 2.0 — Top 50 of 500+ teams at a national-level hackathon; built FlashGuard, a payment fraud detector
 
 <br>
 
